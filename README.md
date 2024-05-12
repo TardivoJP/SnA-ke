@@ -1,6 +1,6 @@
 # SnA*ke
 
-Welcome to SnA*ke, a Java Swing implementation of the classic Snake game with intelligent pathfinding using the A* algorithm.
+Welcome to SnA\*ke, a Java Swing implementation of the classic Snake game with intelligent pathfinding using the A\* algorithm.
 
 ![Snake](https://i.imgur.com/TcbzVZL.png)
 
