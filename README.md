@@ -1,3 +1,5 @@
+[:brazil:](README_ptbr.md) [:jp:](README_jp.md) [:cn:](README_cn.md) [:india:](README_india.md)
+
 # SnA*ke
 
 Welcome to SnA\*ke, a Java Swing implementation of the classic Snake game with intelligent pathfinding using the A\* algorithm.
